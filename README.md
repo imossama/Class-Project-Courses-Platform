@@ -16,13 +16,13 @@ The Class Project Courses Platform is a complete web utility designed to empower
 ...
 1. Introduction :
    
-  *Objectif du Document : Ce document a pour objectif de définir les exigences et les spécifications fonctionnelles de notre application 
-  scolaire de gestion de cours.
+   *Objectif du Document : Ce document a pour objectif de définir les exigences et les spécifications fonctionnelles de notre application 
+   scolaire de gestion de cours.
   
-  *Contexte du Projet : L'application vise à faciliter le processus de planification, de gestion et de suivi des cours dans un 
-  environnement scolaire.
+   *Contexte du Projet : L'application vise à faciliter le processus de planification, de gestion et de suivi des cours dans un 
+   environnement scolaire.
   
-  *Parties Prenantes et Leurs Rôles :
+   *Parties Prenantes et Leurs Rôles :
     +Administrateur : Gestionnaire global de l'application, responsable de l'ajout d'utilisateurs, de la configuration générale, et de la 
     supervision du système.
     +Professeur : Utilisateur chargé de créer et de gérer les cours (TPs, TDs), de les modifier et de les supprimer.
