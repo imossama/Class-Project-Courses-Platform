@@ -77,6 +77,19 @@ The Class Project Courses Platform is a complete web utility designed to empower
 
 •	Exclus : Les cours en eux-mêmes (leur contenu spécifique) ne seront pas créés par l'application, mais par les professeurs eux-mêmes.
 
+## 6.Contraintes:
+1. Contrainte de temps:
+   •	L'application doit être complété dans un mois.
+2. Contrainte de budget:
+   •	Budget est 0DH.
+3. Contraintes de ressources:
+   •	L'équipe de developpement :
+         L'équipe est composée de 6 membres.
+   •	Équipement :
+         Des ordinateurs personnels.
+## 7.Critères d'acceptation:
+   •	Conditions de réussite:
+      -s
 ## 10.Ressources :
 1. Les étudiants sont encouragés à tirer parti d'Angular CLI pour initialiser et gérer leur projet, exploitant ainsi les fonctionnalités avancées de ce framework de développement web.
 2. L'utilisation de TypeScript en tandem avec Angular garantira une programmation robuste et typée, améliorant la qualité du code et facilitant la maintenance à long terme.
