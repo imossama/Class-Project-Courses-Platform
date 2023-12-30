@@ -95,7 +95,8 @@ The Class Project Courses Platform is a complete web utility designed to empower
    
 ## 7.Critères d'acceptation:
    •	Conditions de réussite:
-      -s
+      -L'étudiant peut connecter à son compte.
+      -Consulter les cours.
 ## 10.Ressources :
 1. Les étudiants sont encouragés à tirer parti d'Angular CLI pour initialiser et gérer leur projet, exploitant ainsi les fonctionnalités avancées de ce framework de développement web.
 2. L'utilisation de TypeScript en tandem avec Angular garantira une programmation robuste et typée, améliorant la qualité du code et facilitant la maintenance à long terme.
