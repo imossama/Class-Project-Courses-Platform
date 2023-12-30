@@ -77,6 +77,25 @@ The Class Project Courses Platform is a complete web utility designed to empower
 
 •	Exclus : Les cours en eux-mêmes (leur contenu spécifique) ne seront pas créés par l'application, mais par les professeurs eux-mêmes.
 
+## 10.Ressources :
+1. Les étudiants sont encouragés à tirer parti d'Angular CLI pour initialiser et gérer leur projet, exploitant ainsi les fonctionnalités avancées de ce framework de développement web.
+2. L'utilisation de TypeScript en tandem avec Angular garantira une programmation robuste et typée, améliorant la qualité du code et facilitant la maintenance à long terme.
+
+De plus, l'intégration de MySQL en tant que système de gestion de base de données offre une solution fiable et performante pour le stockage et la récupération des données. L'utilisation de SQL permettra une manipulation efficace des données, favorisant ainsi une gestion optimale de l'information en temps réel.
+
+Pour renforcer la gestion de l'état de l'application, l'exploration de technologies telles que NgRx serait bénéfique. Cela permettra une gestion plus avancée des flux de données, améliorant ainsi l'expérience utilisateur et la réactivité de l'application.
+
+L'utilisation de Spring Boot comme backend offre une intégration harmonieuse avec Angular, créant ainsi une architecture full-stack robuste et hautement performante. Cette combinaison assure une gestion efficace des requêtes serveur et une coordination fluide entre le frontend et le backend.
+
+En ce qui concerne la collaboration et la gestion de version, il est fortement recommandé d'utiliser Git pour suivre les changements apportés au code. GitHub peut être exploité comme une plateforme collaborative, facilitant le travail d'équipe et offrant des fonctionnalités avancées telles que le suivi des problèmes et des demandes de fusion.
+
+L'utilisation d'outils tels que Microsoft Teams et Trello peut également améliorer la communication et la coordination au sein de l'équipe de développement, garantissant une avancée harmonieuse du projet.
+
+En résumé, l'utilisation judicieuse d'Angular, TypeScript, MySQL, SQL, Spring Boot, GitHub, Teams, et Trello permettra de créer un projet web robuste, évolutif et facile à maintenir. Une attention particulière à la documentation du code et à la gestion de version contribuera à une évaluation positive du projet.
+
+## 11.Communication :
+La communication dans ce cahier des charges revêt une importance cruciale pour garantir la compréhension claire et unifiée de tous les aspects du projet. Nous nous efforçons de présenter les informations de manière concise et accessible, évitant tout jargon excessif et favorisant une compréhension aisée par toutes les parties prenantes, qu'elles soient techniques ou non. Chaque élément, des fonctionnalités aux contraintes techniques, est détaillé de manière exhaustive afin d'éliminer toute ambiguïté potentielle. La cohérence entre les différentes sections est maintenue rigoureusement pour assurer une vision globale et harmonieuse du projet. Nous encourageons une communication bidirectionnelle, offrant un espace pour les questions, les clarifications et les discussions tout au long du processus. En outre, la clarté des priorités et des éléments critiques est mise en avant pour orienter l'équipe de développement et les parties prenantes vers les aspects les plus essentiels du projet. Enfin, la flexibilité est intégrée pour permettre des révisions et des mises à jour en cours de route, assurant ainsi une communication dynamique et adaptative pour répondre aux besoins changeants du projet.
+
 
 ## 12. Gestion des Risques :
 1. Risques liés aux technologies :
