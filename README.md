@@ -89,11 +89,8 @@ The Class Project Courses Platform is a complete web utility designed to empower
 3. Contraintes de ressources:
    
    •	L'équipe de developpement :
-   
-         L'équipe est composée de 6 membres.
-   
+         L'équipe est composée de 6 membres.   
    •	Équipement :
-   
          Des ordinateurs personnels.
    
 ## 7.Critères d'acceptation:
