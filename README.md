@@ -81,7 +81,8 @@ The Class Project Courses Platform is a complete web utility designed to empower
 1. Les étudiants sont encouragés à tirer parti d'Angular CLI pour initialiser et gérer leur projet, exploitant ainsi les fonctionnalités avancées de ce framework de développement web.
 2. L'utilisation de TypeScript en tandem avec Angular garantira une programmation robuste et typée, améliorant la qualité du code et facilitant la maintenance à long terme.
 
-De plus, l'intégration de MySQL en tant que système de gestion de base de données offre une solution fiable et performante pour le stockage et la récupération des données. L'utilisation de SQL permettra une manipulation efficace des données, favorisant ainsi une gestion optimale de l'information en temps réel.
+De plus, l'intégration de MySQL en tant que système de gestion de base de données offre une solution fiable et performante pour le stockage et la récupération des données.
+L'utilisation de SQL permettra une manipulation efficace des données, favorisant ainsi une gestion optimale de l'information en temps réel.
 
 Pour renforcer la gestion de l'état de l'application, l'exploration de technologies telles que NgRx serait bénéfique. Cela permettra une gestion plus avancée des flux de données, améliorant ainsi l'expérience utilisateur et la réactivité de l'application.
 
