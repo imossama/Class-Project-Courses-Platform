@@ -31,13 +31,12 @@ Le projet de classe 'E-Cours' est un utilitaire web complet conçu pour autonomi
 </div>
 
 ## Table des matières
-- [Introduction](#intro)
-- [Présentation du Projet](#pres)
-- [Contexte](#con)
-- [Besoin du client](#bc)
-- [Portée du projet](#pp)
-- [Contraintes](#contr)
-
+1. [Introduction](#intro)
+2. [Présentation du Projet](#pres)
+3. [Contexte](#con)
+4. [Besoin du client](#bc)
+5. [Portée du projet](#pp)
+6. [Contraintes](#contr)
 
 ## 1. Introduction <a name="intro"></a>
 
