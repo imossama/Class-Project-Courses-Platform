@@ -14,7 +14,7 @@ The Class Project Courses Platform is a complete web utility designed to empower
 ## 🚀 Getting Started
 
 ...
-1. Introduction :
+## 1. Introduction :
    
    *Objectif du Document : Ce document a pour objectif de définir les exigences et les spécifications fonctionnelles de notre application 
    scolaire de gestion de cours.
@@ -28,7 +28,7 @@ The Class Project Courses Platform is a complete web utility designed to empower
     +Professeur : Utilisateur chargé de créer et de gérer les cours (TPs, TDs), de les modifier et de les supprimer.
     +Étudiant : Utilisateur inscrit à des cours, permettant de consulter les cours.
     
-2. Présentation du Projet :
+## 2. Présentation du Projet :
    
    *Description Générale du Projet : L'application vise à simplifier la gestion des cours en fournissant une plateforme centralisée pour 
     l’administrateur, les professeurs et les étudiants.
@@ -37,7 +37,7 @@ The Class Project Courses Platform is a complete web utility designed to empower
    +Faciliter la planification et la gestion des cours pour les professeurs.
    +Permettre aux étudiants de consulter les cours et les informations associées.
    
-3. Contexte :
+## 3. Contexte :
 
    *Environnement dans lequel le Projet Sera Mis en Œuvre :
     +L'application sera déployée dans un environnement scolaire, accessible via une plateforme web.
@@ -55,7 +55,7 @@ The Class Project Courses Platform is a complete web utility designed to empower
     +Les mises à jour et les évolutions du système devront être coordonnées avec le calendrier académique pour minimiser les 
     interruptions.
     
-4. Besoin du client :
+## 4. Besoin du client :
 
 •	Exigences fonctionnelles :
 
@@ -71,7 +71,7 @@ The Class Project Courses Platform is a complete web utility designed to empower
 	Compatibilité : Veiller à ce que l'application soit compatible avec les navigateurs populaires (Chrome, Firefox, Safari) et disponible sur les appareils mobiles pour une accessibilité maximale.
 
 
-5. Portée du projet :
+## 5. Portée du projet :
 
 •	Inclus : Développement de l'application scolaire de gestion de cours selon les spécifications fonctionnelles établies.
 
