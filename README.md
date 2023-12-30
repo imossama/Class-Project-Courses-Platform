@@ -79,14 +79,23 @@ The Class Project Courses Platform is a complete web utility designed to empower
 
 ## 6.Contraintes:
 1. Contrainte de temps:
+   
    •	L'application doit être complété dans un mois.
+   
 2. Contrainte de budget:
+   
    •	Budget est 0DH.
+   
 3. Contraintes de ressources:
+   
    •	L'équipe de developpement :
+   
          L'équipe est composée de 6 membres.
+   
    •	Équipement :
+   
          Des ordinateurs personnels.
+   
 ## 7.Critères d'acceptation:
    •	Conditions de réussite:
       -s
