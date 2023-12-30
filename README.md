@@ -77,3 +77,33 @@ The Class Project Courses Platform is a complete web utility designed to empower
 
 •	Exclus : Les cours en eux-mêmes (leur contenu spécifique) ne seront pas créés par l'application, mais par les professeurs eux-mêmes.
 
+
+## 12. Gestion des Risques :
+1. Risques liés aux technologies :
+   - Description : Problèmes potentiels liés aux plateformes technologiques utilisées pour le développement de l'application, tels que des incompatibilités, des bugs ou des retards.
+   - Mesures préventives : Effectuer des tests approfondis sur différentes plates-formes, suivre les meilleures pratiques de développement, mettre en place un processus de détection et de correction des bugs. Si nécessaire en raison de contraintes de temps pour compléter la formation sur Spring, nous envisageons de remplacer Spring par Laravel, car tous les membres du groupe ont des connaissances sur Laravel.
+2. Risques de communication :
+   - Description : Risques liés à une communication insuffisante ou inefficace au sein de l'équipe de développement, avec l'encadrant, ou avec les utilisateurs finaux.
+   - Mesures préventives : Établir des canaux de communication clairs, organiser des réunions régulières, et utiliser des outils de gestion de projet pour faciliter la collaboration.
+## 13. Conditions Contractuelles :
+1. Portée du Projet :
+Définir clairement les fonctionnalités et les objectifs du projet, ainsi que les livrables attendus.
+2. Calendrier et Délais :
+Spécifier les dates de début et de fin du projet, ainsi que les délais pour les différentes phases de développement.
+3. Ressources Humaines :
+Détailler le rôle de chaque membre de l'équipe, les responsabilités de l'encadrant, et toute collaboration externe nécessaire.
+4. Propriété Intellectuelle :
+Préciser la propriété intellectuelle des différents éléments du projet, en particulier en ce qui concerne le code source et les données.
+## 14. Validation :
+1. Critères de Réussite :
+Définir les critères spécifiques qui détermineront si le projet est un succès, tels que la fonctionnalité complète, la stabilité du système, et la satisfaction des utilisateurs.
+
+2. Procédures de Test et de Validation :
+Élaborer des procédures détaillées pour tester chaque fonctionnalité de l'application et décrire les étapes de validation avant le déploiement.
+3. Approbation Finale :
+Indiquer les étapes nécessaires pour obtenir l'approbation finale de l'encadrant et des parties prenantes du projet.
+4. Formation des Utilisateurs :
+Prévoir des sessions de formation pour les enseignants et les étudiants afin de s'assurer qu'ils peuvent utiliser efficacement la plateforme.
+5. Maintenance Post-livraison :
+Prévoir des modalités de maintenance post-livraison, y compris des mises à jour régulières et le support technique pour résoudre les problèmes éventuels après le déploiement.
+
