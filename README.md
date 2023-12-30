@@ -24,8 +24,8 @@ Le projet de classe 'E-Cours' est un utilitaire web complet conçu pour autonomi
 <div align="center">
 <h4>Plateforme de Collaboration</h4>
 <p>Nous avons utilisé la plateforme Trello pour faciliter la communication, la coordination et le travail d'équipe dans notre projet. Vous pouvez consulter notre avancement en cliquant sur l'image ou <a href="https://trello.com/w/classprojectcoursesplatform">en cliquant ici</a>.</p>
-<a href="https://trello.com/w/classprojectcoursesplatform">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/2560px-Trello_logo.svg.png" width="100"/>
+<a href="https://trello.com/w/classprojectcoursesplatform" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/2560px-Trello_logo.svg.png" width="100" target="_blank"/>
 </a>
 </div>
 
