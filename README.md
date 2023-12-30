@@ -30,7 +30,16 @@ Le projet de classe 'E-Cours' est un utilitaire web complet conçu pour autonomi
 </a>
 </div>
 
-## 1. Introduction
+## Table des matières
+- [Introduction](#intro)
+- [Présentation du Projet](#pres)
+- [Contexte](#con)
+- [Besoin du client](#bc)
+- [Portée du projet](#pp)
+- [Contraintes](#contr)
+
+
+## 1. Introduction <a name="intro"></a>
 
 #### 📋 Objectif du Document
 Ce document a pour objectif de définir les exigences et les spécifications fonctionnelles de notre application scolaire de gestion de cours.
@@ -43,7 +52,7 @@ L'application vise à faciliter le processus de planification, de gestion et de 
 - **👨‍🏫 Professeur**: Utilisateur chargé de créer et de gérer les cours (TPs, TDs), de les modifier et de les supprimer.
 - **👨‍🎓 Étudiant**: Utilisateur inscrit à des cours, permettant de consulter les cours.
 
-## 2. Présentation du Projet
+## 2. Présentation du Projet <a name="pres"></a>
 
 #### 📝 Description Générale du Projet
 L'application vise à simplifier la gestion des cours en fournissant une plateforme centralisée pour l’administrateur, les professeurs et les étudiants.
@@ -52,7 +61,7 @@ L'application vise à simplifier la gestion des cours en fournissant une platefo
 - Faciliter la planification et la gestion des cours pour les professeurs.
 - Permettre aux étudiants de consulter les cours et les informations associées.
 
-## 3. Contexte
+## 3. Contexte <a name="con"></a>
 
 #### 🌍 Environnement dans lequel le Projet Sera Mis en Œuvre
 - L'application sera déployée dans un environnement scolaire, accessible via une plateforme web.
@@ -66,7 +75,7 @@ L'application vise à simplifier la gestion des cours en fournissant une platefo
 - La collaboration avec le département informatique de l'établissement est nécessaire pour garantir une infrastructure technique adéquate et un support technique continu.
 - Les mises à jour et les évolutions du système devront être coordonnées avec le calendrier académique pour minimiser les interruptions.
 
-## 4. Besoin du client
+## 4. Besoin du client <a name="bc"></a>
 
 #### Exigences fonctionnelles
 
@@ -93,7 +102,7 @@ Garantir une interface utilisateur intuitive pour faciliter l'interaction avec l
 ###### 🔄 Compatibilité
 Veiller à ce que l'application soit compatible avec les navigateurs populaires (Chrome, Firefox, Safari) et disponible sur les appareils mobiles pour une accessibilité maximale.
 
-## 5. Portée du projet
+## 5. Portée du projet <a name="pp"></a>
 
 #### 🌐 Inclus
 Développement de l'application scolaire de gestion de cours selon les spécifications fonctionnelles établies.
@@ -101,7 +110,7 @@ Développement de l'application scolaire de gestion de cours selon les spécific
 #### 🚫 Exclus
 Les cours en eux-mêmes (leur contenu spécifique) ne seront pas créés par l'application, mais par les professeurs eux-mêmes.
 
-## 6. Contraintes
+## 6. Contraintes <a name="contr"></a>
 
 1. Contrainte de temps:
    - L'application doit être complétée dans un mois.
