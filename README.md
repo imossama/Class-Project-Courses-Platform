@@ -1,4 +1,4 @@
-# Projet de classe : Plateforme de cours
+# Projet de classe : Plateforme des cours
 <br>
 <img src="https://i.ibb.co/RYSbYPK/SiteLogo.png" alt="E-Cours ESTSB" border="0" width="200">
 Le projet de classe 'E-Cours' est un utilitaire web complet conçu pour autonomiser les enseignants à l'EST SB en fournissant une plateforme centralisée pour accéder à, partager et gérer les cours. Cette plateforme permet aux éducateurs et aux étudiants de communiquer et de collaborer en temps réel à travers plusieurs leçons. Nous travaillons sur cette application en équipe de 6 personnes, comme notre encadrant l'a demandé.
