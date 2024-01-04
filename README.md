@@ -131,12 +131,12 @@ Les cours en eux-mêmes (leur contenu spécifique) ne seront pas créés par l'a
 
 ## 7. Critères d'acceptation <a name="ctrac"></a>
 
-#### 🎉 Conditions de réussite:
+#### Conditions de réussite:
 - L'étudiant peut se connecter à son compte.
 - Consulter les cours.
-- 
-# 8. Livrables <a name="livr"></a>
-#### Application Web Fonctionnelle:
+
+## 8. Livrables <a name="livr"></a>
+#### Application Web Fonctionnelle 💻:
 - Interface utilisateur intuitive.
 - Système de gestion des cours pour les professeurs.
 - Fonctionnalités de consultation des cours pour les étudiants.
