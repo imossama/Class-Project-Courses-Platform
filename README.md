@@ -38,6 +38,13 @@ Le projet de classe 'E-Cours' est un utilitaire web complet conçu pour autonomi
 5. [Portée du projet](#pp)
 6. [Contraintes](#contr)
 7. [Critères d'acceptation](#ctrac)
+8. [Livrables](#livr)
+9. [Planning](#plan)
+10. [Ressources](#ress)
+11. [Communication](#comm)
+12. [Gestion des Risques](#gr)
+13. [Conditions Contractuelles](#conc)
+14. [Validation](#val)
 
 ## 1. Introduction <a name="intro"></a>
 
@@ -127,3 +134,81 @@ Les cours en eux-mêmes (leur contenu spécifique) ne seront pas créés par l'a
 #### 🎉 Conditions de réussite:
 - L'étudiant peut se connecter à son compte.
 - Consulter les cours.
+- 
+# 8. Livrables <a name="livr"></a>
+#### Application Web Fonctionnelle:
+- Interface utilisateur intuitive.
+- Système de gestion des cours pour les professeurs.
+- Fonctionnalités de consultation des cours pour les étudiants.
+- Fonctionnalités d'administration pour l’administrateur.
+
+#### Applications Mobiles (si applicable) 📱:
+- Applications iOS et Android offrant une expérience similaire à la version web.
+- Fonctionnalités adaptées aux écrans mobiles.
+
+#### Documentation Technique 📚:
+- Document d'architecture logicielle décrivant la structure de l'application.
+- Spécifications techniques détaillées pour les développeurs.
+- Procédures d'installation et de configuration.
+
+#### Manuels d'Utilisateur 📖:
+- Manuel de l'administrateur expliquant la gestion globale de l'application.
+- Guide du professeur détaillant la création et la gestion des cours.
+- Guide de l'étudiant expliquant la consultation des cours.
+
+## 9. Planning <a name="plan"></a>
+#### Échéancier du Projet avec des Jalons Clés:
+- **Phase 1**: Analyse des Besoins (une semaine)
+  - Jalon 1: Fin des Entrevues avec les Parties Prenantes.
+  - Jalon 2: Validation des Besoins.
+- **Phase 2**: Conception (une semaine)
+  - Jalon 3: Fin de la Conception de l'Architecture.
+  - Jalon 4: Validation de la Conception.
+- **Phase 3**: Développement (3 semaines)
+  - Jalon 5: Mise en Place de l'Environnement de Développement.
+  - Jalon 6: Fin du Développement des Fonctionnalités de Base.
+  - Jalon 7: Intégration des Modules.
+- **Phase 4**: Tests
+  - Jalon 8: Fin des Tests Internes des Fonctionnalités.
+  - Jalon 9: Fin des Tests Bêta avec un Groupe d'Utilisateurs Pilotes.
+- **Phase 5**: Déploiement
+  - Jalon 10: Préparation de l'Environnement de Production.
+  - Jalon 11: Déploiement de l'Application.
+  - Jalon 12: Fin de la Formation des Utilisateurs.
+- **Phase 6**: Suivi et Maintenance
+  - Jalon 13: Suivi des Performances de l'Application.
+  - Jalon 14: Fin de la Correction des Erreurs et des Problèmes.
+  - Jalon 15: Fin des Mises à Jour Fonctionnelles en Réponse aux Retours des Utilisateurs.
+
+## 10. Ressources <a name="ress"></a>
+- Les étudiants sont encouragés à utiliser Angular CLI pour la gestion du projet.
+- TypeScript avec Angular pour une programmation robuste.
+- Intégration de MySQL pour le stockage des données.
+- Exploration de NgRx pour une gestion avancée des flux de données.
+- Utilisation de Spring Boot en backend pour une architecture robuste.
+- Utilisation de Git, GitHub, Google Meet, et Trello pour la collaboration et la gestion de version.
+
+# 11. Communication <a name="comm"></a>
+- Importance cruciale de la communication claire et unifiée.
+- Encouragement de la communication bidirectionnelle et de la flexibilité pour des révisions en cours de route.
+
+## 12. Gestion des Risques <a name="gr"></a>
+1. Risques liés aux technologies:
+   - Problèmes potentiels liés aux plateformes technologiques.
+   - Mesures préventives incluent des tests approfondis et le suivi des meilleures pratiques.
+2. Risques de communication:
+   - Risques liés à une communication insuffisante.
+   - Mesures préventives incluent des canaux de communication clairs et des réunions régulières.
+
+## 13. Conditions Contractuelles <a name="conc"></a>
+1. Portée du Projet: Définir les fonctionnalités, les objectifs, et les livrables.
+2. Calendrier et Délais: Spécifier les dates de début et de fin, ainsi que les délais.
+3. Ressources Humaines: Détails sur les rôles de l'équipe, les responsabilités de l'encadrant, et les collaborations externes.
+4. Propriété Intellectuelle: Préciser la propriété intellectuelle des éléments du projet.
+
+## 14. Validation <a name="val"></a>
+1. Critères de Réussite: Définir les critères pour le succès du projet.
+2. Procédures de Test et de Validation: Élaborer des procédures détaillées.
+3. Approvisionnement Final: Étapes pour obtenir l'approbation finale.
+4. Formation des Utilisateurs: Sessions de formation pour enseignants et étudiants.
+5. Maintenance Post-livraison: Modalités pour les mises à jour et le support technique après le déploiement.
